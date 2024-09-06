@@ -1,2 +1,3 @@
 ## Welcome to Nextify Hub
-![image width="100%"](https://github.com/user-attachments/assets/bd0a3fa4-affc-445e-96e6-b52ae91ca652)
+![image](https://github.com/user-attachments/assets/6191fdb6-4991-4f5d-8322-611f96ba6705)
+
