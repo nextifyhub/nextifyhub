@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<h1>Welcome to Nextify Hub - Web Solutions</h1>
 <!--
+<img src=""/>
 **nextifyhub/nextifyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
