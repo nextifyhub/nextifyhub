@@ -1,8 +1,5 @@
 ## Welcome to Nextify Hub
-
-<!--
-<img src="Github%20Cover%20img.png"/>
-**nextifyhub/nextifyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/bd0a3fa4-affc-445e-96e6-b52ae91ca652)
 
 Here are some ideas to get you started:
 
